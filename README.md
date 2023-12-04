@@ -1,2 +1,2 @@
-# rconnect
+# rConnect
 rConnect
